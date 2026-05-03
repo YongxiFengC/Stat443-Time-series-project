@@ -131,7 +131,7 @@ pip install pandas numpy statsmodels scikit-learn matplotlib seaborn
 ## Usage
 
 1. **Data Loading**:
-   Download the dataset from the [Zenodo repository](https://zenodo.org/records/15423347) and place it in the `data/raw/` directory, or load it directly in the scripts using the provided URL.
+   Download the dataset from the Zenodo repository and place it in the `data/raw/` directory, or load it directly in the scripts using the provided URL.
 
 2. **Run Analysis**:
    Execute the scripts in sequential order:
@@ -154,4 +154,4 @@ This project is for academic and research purposes. Data usage is subject to the
 
 - Kawasaki City Infectious Disease Surveillance System.
 - Japan Meteorological Agency.
-- Zenodo Repository: [https://zenodo.org/records/15423347](https://zenodo.org/records/15423347)
+- Zenodo Repository
